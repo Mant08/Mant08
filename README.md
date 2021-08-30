@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mant08
-- 👀 I’m interested in Computer Sicence, Operating Systems and Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creating an operating system.
-- 📫 How to reach me ...
+
+- 👋 Hi, I’m @Mant08, i am a computer hobbyist and i am interested in Programming.
+- 🌱 I’m having the knowledge, to write in batch, python and html.
+- 🎟 Also, i am translating software, to El-GR. (ex. One of the two translators of the WhynotWin11 Project to EL-GR)
+- 📫 Reach me by email, real.computerside@gmail.com
 
 <!---
 Mant08/Mant08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
